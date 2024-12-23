@@ -1,6 +1,6 @@
 <👋 Hi, I'm Leonardo>
 
-<📚 Computer Science Undergraduate @UFSC (3/8)>
+<📚 Computer Science Undergraduate @UFSC (4/8)>
 
 <🎓 Graduated from @IFSC (8/8)>
 
