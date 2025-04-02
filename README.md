@@ -4,6 +4,4 @@
 
 <🎓 Graduated from @IFSC (8/8)>
 
-<💻 IT Intern @Aprova Total | Development & Data Science>
-
-<🌱 Learning: Javascript, C, C++>
+<👩🏻‍💻 Undergraduate Researcher at ECL - Embedded Computing Laboratory (INE/UFSC) >
