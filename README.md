@@ -6,4 +6,4 @@
 
 <👩🏻‍💻 Undergraduate Researcher at ECL - Embedded Computing Laboratory (INE/UFSC) >
 
-<📁 Lattes: http://lattes.cnpq.br/3648929450398886> 
+<📁 Lattes: http://lattes.cnpq.br/3648929450398886 > 
