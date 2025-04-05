@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/TFsDz2X.gif" alt="Pretending to work" width="400" />
+![giphy](https://github.com/user-attachments/assets/27bbeeae-1d82-4fcc-bfe3-1ef3f7aef915)
 </p>
-
 
 ---
 
