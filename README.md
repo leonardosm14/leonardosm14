@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UFSC;Undergraduate+Researcher+@+ECL;Probably+listening+to+Punisher+by+Phoebe+Bridgers" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3orieYzPzMI9n1lUo0/giphy.gif" alt="Pretending to work" width="400" />
+</p>
+
 ---
 
 ### 🧠 About Me
