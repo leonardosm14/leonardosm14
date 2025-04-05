@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UFSC;Undergraduate+Researcher+at+ECL;Probably+listening+to+Punisher+by+Phoebe+Bridgers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UFSC;Undergraduate+Researcher+@+ECL;Probably+listening+to+Punisher+by+Phoebe+Bridgers" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 📚 **Computer Science Undergraduate @UFSC** (4/8)  
+- 📚 **Computer Science Undergraduate at UFSC**  
 - 🎓 **Graduated from IFSC** (8/8)  
 - 💻 **Undergraduate Researcher** at **ECL - Embedded Computing Laboratory (INE/UFSC)**  
 - 📄 [**Lattes Curriculum**](http://lattes.cnpq.br/3648929450398886)
