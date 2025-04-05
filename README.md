@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4jnnmnxfkYiGic/giphy.gif" alt="Pretending to work gif" width="400" />
+  <iframe src="https://giphy.com/embed/3ohs4jnnmnxfkYiGic" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jonny-stock-pretending-to-work-3ohs4jnnmnxfkYiGic">via GIPHY</a></p>
 </p>
 
 
