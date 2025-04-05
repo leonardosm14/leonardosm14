@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/pNsJvMw.gif" width="200" />
+  <img src="https://media.giphy.com/media/3ohs4jnnmnxfkYiGic/giphy.gif" alt="Pretending to work gif" width="400" />
 </p>
+
 
 ---
 
