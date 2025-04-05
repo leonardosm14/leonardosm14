@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 📚 **Computer Science Undergraduate at UFSC**  
+- 📚 **Computer Science Undergraduate** at **UFSC**  
 - 🎓 **Graduated from IFSC** (8/8)  
 - 💻 **Undergraduate Researcher** at **ECL - Embedded Computing Laboratory (INE/UFSC)**  
 - 📄 [**Lattes Curriculum**](http://lattes.cnpq.br/3648929450398886)
