@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UFSC;Undergraduate+Researcher+@+ECL;Probably+listening+to+Punisher+by+Phoebe+Bridgers" alt="Typing SVG" />
 </p>
 
-![giphy](https://github.com/user-attachments/assets/27bbeeae-1d82-4fcc-bfe3-1ef3f7aef915)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27bbeeae-1d82-4fcc-bfe3-1ef3f7aef915" alt="giphy" width="400" />
+</p>
 
 ---
 
