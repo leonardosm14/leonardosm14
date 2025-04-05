@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%40+UFSC;Undergraduate+Researcher+at+ECL;Probably listening to Punisher by Phoebe Bridgers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%40+UFSC;Undergraduate+Researcher+at+ECL;Probably+listening+to+Punisher+by+Phoebe+Bridgers"tBri="Typing SVG" />
 </p>
 
 ---
