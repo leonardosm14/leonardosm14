@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1c2lhZXk1NDd2ZWx2dzVlbTM1dGJ3eGJ6NmRzeHc5dTJ1M3RjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4jnnmnxfkYiGic/giphy.gif" alt="Pretending to work gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1c2lhZXk1NDd2ZWx2dzVlbTM1dGJ3eGJ6NmRzeHc5dTJ1M3RjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4jnnmnxfkYiGic/giphy.gif" alt="Pretending to work gif" width="200" />
 </p>
 
 ---
