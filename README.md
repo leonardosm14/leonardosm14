@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ5aGo3cmN1ZXllemMxNXh0N2RmZWx5emoydGw3MzZuYnN5cWdpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4jnnmnxfkYiGic/giphy.gif" alt="Pretending to work gif" width="200" />
+  <img src="https://i.imgur.com/pNsJvMw.gif" width="200" />
 </p>
 
 ---
