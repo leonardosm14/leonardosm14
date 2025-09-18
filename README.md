@@ -28,7 +28,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3C2E5E.svg?style=for-the-badge&logo=lisp&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-0F60FF.svg?style=for-the-badge&logo=prolog&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 <br/>
 
@@ -39,7 +39,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux%20Mint-87CF50?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Mint](https://img.shields.io/badge/Mint-87CF50?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 </div>
 
