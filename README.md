@@ -17,10 +17,11 @@
 
 ### 🛠️ Languages & Tools
 
+### Daily Languages
+
 <div align="center">
 
 <!-- Programming Languages -->
-<b>Daily Languages</b><br/>
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,10 +31,14 @@
 ![Prolog](https://img.shields.io/badge/Prolog-0F60FF.svg?style=for-the-badge&logo=prolog&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 
+<div> 
 <br/>
 
+### Tools & Platforms
+
+<div align="center">
+
 <!-- Tools & Platforms -->
-<b>Tools & Platforms</b><br/>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
