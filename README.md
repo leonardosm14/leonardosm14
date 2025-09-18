@@ -20,6 +20,7 @@
 <div align="center">
 
 <!-- Programming Languages -->
+<b>Daily Languages</b><br/>
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,12 +33,13 @@
 <br/>
 
 <!-- Tools & Platforms -->
+<b>Tools & Platforms</b><br/>
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/Mint-E95420.svg?style=for-the-badge&logo=mint&logoColor=white)
+![Mint](https://img.shields.io/badge/Linux%20Mint-87CF50?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 </div>
 
