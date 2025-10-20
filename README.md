@@ -40,7 +40,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/Mint-87CF50?style=for-the-badge&logo=linuxmint&logoColor=white)
 </div>
 
 
