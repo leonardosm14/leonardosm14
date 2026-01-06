@@ -52,11 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leonardosm14&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardosm14&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/27bbeeae-1d82-4fcc-bfe3-1ef3f7aef915" alt="giphy" width="400" />
-</p>
-
----
