@@ -9,8 +9,9 @@
 ### 🧠 About Me
 
 - 📚 **Computer Science Undergraduate** at **UFSC**  
-- 🎓 **Graduated from IFSC** (8/8)  
-- 💻 **Undergraduate Researcher** at **ECL - Embedded Computing Laboratory (INE/UFSC)**  
+- 🎓 **Graduated from IFSC**
+- 💻 **Undergraduate Researcher** at **ECL - Embedded Computing Laboratory (INE/UFSC)**
+- ⚙️ **Embedded Systems Test Analyst Intern** at **Hexagon's Agriculture Solutions**  
 - 📄 [**Lattes Curriculum**](http://lattes.cnpq.br/3648929450398886)
 
 ---
@@ -26,7 +27,8 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-5C2D91.svg?style=for-the-badge&logo=vhdl&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5AB552.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <br/>
@@ -38,6 +40,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 </div>
