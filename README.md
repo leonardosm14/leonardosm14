@@ -29,7 +29,12 @@
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VHDL](https://img.shields.io/badge/VHDL-5C2D91.svg?style=for-the-badge&logo=vhdl&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-5AB552.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+
+<b>Writing</b><br/>
+
+
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)
 
 <br/>
 
