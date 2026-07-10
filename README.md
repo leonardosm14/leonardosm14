@@ -9,10 +9,11 @@
 ### 🧠 About Me
 
 - 📚 **Computer Science Undergraduate** at **UFSC**  
-- 🎓 **Graduated from IFSC**
+- 🎓 **Graduated** from **IFSC**
 - 💻 **Undergraduate Researcher** at **ECL - Embedded Computing Laboratory (INE/UFSC)**
 - ⚙️ **Embedded Systems Test Analyst Intern** at **Hexagon's Agriculture Solutions**  
 - 📄 [**Lattes Curriculum**](http://lattes.cnpq.br/3648929450398886)
+- 🌐 [**Personal Webpage**](https://leonardosm14.github.io/)
 
 ---
 
